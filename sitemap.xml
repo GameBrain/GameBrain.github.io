@@ -415,14 +415,4 @@
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
-<url>
-	<loc>http://game-brain.com/radnor-high-school/football/schedule/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/radnor-high-school/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
 </urlset>
