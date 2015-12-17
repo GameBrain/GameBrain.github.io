@@ -156,12 +156,17 @@
 	<changefreq>weekly</changefreq>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-farming-base/</loc>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-base/</loc>
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-trophy-base/</loc>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-army/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-upgrade-priority/</loc>
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
@@ -387,11 +392,6 @@
 </url>
 <url>
 	<loc>http://game-brain.com/clash-of-clans/town-hall-8-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-upgrade-priority/</loc>
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
