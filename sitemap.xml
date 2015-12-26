@@ -6,12 +6,87 @@
 	<changefreq>weekly</changefreq>
 </url>
 <url>
-	<loc>http://game-brain.com/about</loc>
+	<loc>http://game-brain.com/clash-of-clans/</loc>
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/</loc>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-guide/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-base/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-army/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-upgrade-priority/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-guide/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-base/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-army/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-upgrade-priority/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-guide/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-base/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-army/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-upgrade-priority/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-9-guide/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-9-farming-base/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-9-trophy-base/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/about</loc>
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
@@ -147,71 +222,6 @@
 </url>
 <url>
 	<loc>http://game-brain.com/clash-of-clans/mortar/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-army/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-farming-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-trophy-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-farming-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-trophy-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-9-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-9-farming-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-9-trophy-base/</loc>
 	<priority>.5</priority>
 	<changefreq>weekly</changefreq>
 </url>
