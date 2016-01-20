@@ -9,7 +9,7 @@
     <!-- Vendor: Bootstrap Stylesheets -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <!-- Our Website Stylesheet -->
-    <link rel="stylesheet" href="//game-brain.com/css/style.min.css">
+    <link rel="stylesheet" href="/css/v1.1/style.min.css">
 
     <meta name="description" content="Clash of Clans guide for creating a Town Hall 8 base design that's optimized for protecting your resources and trophies during an attack."/>
     <link rel="canonical" href="http://game-brain.com/clash-of-clans/town-hall-8-army/" />
@@ -20,11 +20,12 @@
     <meta property="og:url" content="Town Hall 8 Base Layout - Clash of Clans" />
     <meta property="og:site_name" content="Game Brain" />
 
-    <meta http-equiv="last-modified" content="2016-01-08" />
+    <meta http-equiv="last-modified" content="2016-01-19" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
-    <nav class="navbar navbar-inverse" role="navigation">
+    <nav class="navbar" role="navigation">
       <div class="container">
       	<div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -33,10 +34,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/" title="Game Brain" rel="home">Game Brain</a>
+          <a class="navbar-brand" href="/" title="Game Brain" rel="home"><span>game</span>brain</a>
       	</div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/" title="Home">Home</a></li>
+            <li><a href="/about/" title="About">About</a></li>
             <li><a href="/clash-of-clans/" title="Guides for Clash of Clans">Clash of Clans</a></li>
           </ul>
         </div>
@@ -45,18 +48,34 @@
       <!-- /.container -->
     </nav>
 
+    <div class="breadcrumbs hidden-xs">
+      <div class="container">
+        <ul class="breadcrumb pull-left"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 8 Army</li></ul>
+        <div class="pull-right" style="width:230px;margin-top:16px;margin-bottom:16px;">
+          <form method="get" action="http://game-brain.com/search">
+            <div class="input-group">
+              <input type="text" class="form-control" value="" name="q" id="q" placeholder="Search...">
+              <span class="input-group-btn">
+                <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Go" style=""><span class="glyphicon glyphicon-search"></span></button>
+              </span>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
     <div id="main-content" class="container">
       <div class="row">
       	<div class="col-sm-12 col-md-8">
-          <div id="content" class="well" role="main">
+          <div id="content" class="main" role="main">
             <article>
               <header>
                 <h1>Town Hall 8 Army</h1>
               </header>
               
-              <small>Last updated on <time datetime="2016-01-08">Jan 08, 2016</time><span class="hidden-xs"> | <a href="https://github.com/GameBrain/Site/tree/master/_posts/clash-of-clans/town-hall-8-army.md" title="Edit this page" rel="nofollow">Edit</a></span></small>
+              <p>Last updated on <time datetime="2016-01-19">Jan 19, 2016</time></p>
               
-              <ol class="breadcrumb hidden-xs"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 8 Army</li></ol>
+              <hr>
             	<h2 class="page-header">Contents</h2>
 
 <ul class="nav nav-pills hidden-xs"><li role="presentation"><a href="/clash-of-clans/town-hall-8-guide/">Introduction</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-8-base/">Base Layout</a></li><li role="presentation" class="active"><a href="/clash-of-clans/town-hall-8-army/">Army Composition</a></li><li role="presentation"><a href="/clash-of-clans/town-hall-8-upgrade-priority/">Upgrade Priority</a></li></ul>
@@ -139,21 +158,7 @@
           </div>
       	</div>
         <div id="secondary" class="col-sm-12 col-md-4" role="complementary">
-          <div id="sideContent" class="well">
-            <aside>
-              <form method="get" action="http://game-brain.com/search">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="input-group">
-                      <input type="text" class="form-control" value="" name="q" id="q" placeholder="Search...">
-                      <span class="input-group-btn">
-                        <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Go" style=""><span class="glyphicon glyphicon-search"></span></button>
-                      </span>
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </aside>
+          <div id="sideContent" class="content">
             <aside>
               <p>Wiki</p>
               <div>
@@ -177,31 +182,16 @@
             </aside>
           </div>
         </div>
-
+        <!-- /side content -->
       </div>
-    <!-- /main content -->
-    </div>
-
-    <div id="footer-area">
-      <div class="container footer-inner">
-        <div class="footer-widget-area">
-          <nav role="navigation" class="col-md-12">
-            <a href="https://www.facebook.com/gamebrainsite" title="Follow us on Facebook" class="facebook">Facebook</a>
-            <a href="https://twitter.com/gamebrainsite" title="Follow us on Twitter" class="twitter">Twitter</a>
-          </nav>
-        </div>
-      </div>
-      <footer id="colophon" class="site-footer" role="contentinfo">
-        <div class="container">
-          <div class="footer-widget-area">
-            <nav role="navigation" class="col-md-12">
-              <a href="/contact/" title="Contact the Game Brain team">Contact</a>
-              <a href="/about/" title="Learn about the Game Brain team">About</a>
-              <a href="/privacy-policy/" title="Game Brain's privacy policy">Privacy Policy</a>
-            </nav>
-          </div>
-        </div>
+      <footer>
+        <ul>
+          <li><a href="/contact/" title="Contact the Game Brain team">Contact</a></li>
+          <li><a href="/about/" title="Learn about the Game Brain team">About</a></li>
+          <li><a href="/privacy-policy/" title="Game Brain's privacy policy">Privacy Policy</a></li>
+        </ul>
       </footer>
+    <!-- /main content -->
     </div>
 
     <!-- Vendor: Javascripts -->
