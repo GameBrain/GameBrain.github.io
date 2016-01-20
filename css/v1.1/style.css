@@ -53,6 +53,11 @@ footer ul {
       background-position: center top 134px;
     }
 }
+@media (max-width: 767px) {
+    body {
+      background-color: #f7f7f7;
+    }
+}
 
 #main-content{
 
