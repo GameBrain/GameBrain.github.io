@@ -6,11 +6,11 @@ a {
 color: #3498db;
 }
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: #444;
 }
 h1,h2,h3,h4 {
-  font-weight:600;
+  /*font-weight:600;*/
   color: #555;
 }
 aside form {
@@ -109,6 +109,7 @@ margin-bottom: 0px;
 color: #777;
 font-weight: 600;
 font-size:28px;
+font-family: 'Open Sans', serif;
 }
 .navbar-brand span {
 color:#3498db;
