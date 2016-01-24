@@ -60,10 +60,10 @@ footer ul {
 }
 
 #main-content{
-
   margin-top:15px;
   padding-bottom:15px;
 }
+
 #content, #sideContent {
 background-color: #fff;
 border: 1px solid #dadada;
@@ -107,9 +107,9 @@ margin-bottom: 0px;
 }
 .navbar-brand {
 color: #777;
-font-weight: 600;
-font-size:28px;
-font-family: 'Open Sans', serif;
+/*font-weight: 600;*/
+font-size:32px;
+font-family: Georgia, serif;
 }
 .navbar-brand span {
 color:#3498db;
