@@ -17,7 +17,7 @@ aside form {
   margin-top: 20px;
 }
 aside ul {
-  padding-left: 15px;
+  padding-left: 0px;
 }
 aside a{
   color: #777;
@@ -46,6 +46,8 @@ footer ul {
   margin-bottom: 20px;
   text-align:center;
 }
+
+aside a{vertical-align:middle;}
 
 @media (min-width: 768px) {
     body {
