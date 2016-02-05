@@ -40,6 +40,7 @@
             <li><a href="/" title="Home">Home</a></li>
             <li><a href="/about/" title="About">About</a></li>
             <li><a href="/clash-of-clans/" title="Guides for Clash of Clans">Clash of Clans</a></li>
+            <li class="visible-xs-block"><a href="/search/">Search Page</a></li>
           </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -50,16 +51,12 @@
     <div class="breadcrumbs hidden-xs">
       <div class="container">
         <ul class="breadcrumb pull-left"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Troops</li></ul>
-        <div class="pull-right" style="width:230px;margin-top:16px;margin-bottom:16px;">
-          <form method="get" action="http://game-brain.com/search">
-            <div class="input-group">
-              <input type="text" class="form-control" value="" name="q" id="q" placeholder="Search...">
-              <span class="input-group-btn">
-                <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Go" style=""><span class="glyphicon glyphicon-search"></span></button>
-              </span>
+        <form class="navbar-form navbar-right" style="margin-top:16px;margin-bottom:16px;" role="search" action="/search/">
+            <div class="form-group">
+                <input type="text" class="form-control" name="q" id="q" placeholder="Search">
             </div>
-          </form>
-        </div>
+            <button type="submit" class="btn btn-default"><img height="18" width="18" src="/images/icons/search.svg"></button>
+        </form>
       </div>
     </div>
 
@@ -108,24 +105,20 @@
           <div id="sideContent" class="content">
             <aside>
               <p>Wiki</p>
-              <div>
-                <ul>
-                  <li><span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/troops/">Troops</a></li>
-                  <li><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/buildings/">Buildings</a></li>
-                  <li><span class="glyphicon glyphicon-fire" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/spells/">Spells</a></li>
-                </ul>
-              </div>
+              <ul>
+                <li><img height="15" width="15" src="/images/icons/troop.svg">&nbsp;<a href="/clash-of-clans/troops/">Troops</a></li>
+                <li><img height="15" width="15" src="/images/icons/building.svg">&nbsp;<a href="/clash-of-clans/buildings/">Buildings</a></li>
+                <li><img height="15" width="15" src="/images/icons/spell.svg">&nbsp;<a href="/clash-of-clans/spells/">Spells</a></li>
+              </ul>
             </aside>
             <aside>
               <p>Guides</p>
-              <div>
-                <ul>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-6-guide/">Town Hall 6</a></li>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-7-guide/">Town Hall 7</a></li>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-8-guide/">Town Hall 8</a></li>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-9-guide/">Town Hall 9</a></li>
-                </ul>
-              </div>
+              <ul>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-6-guide/">Town Hall 6</a></li>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-7-guide/">Town Hall 7</a></li>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-8-guide/">Town Hall 8</a></li>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-9-guide/">Town Hall 9</a></li>
+              </ul>
             </aside>
           </div>
         </div>
@@ -141,9 +134,8 @@
     <!-- /main content -->
     </div>
     
-    <!-- Vendor: Javascripts -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <script>var button=document.getElementsByClassName("navbar-toggle")[0],menu=document.getElementsByClassName("navbar-collapse")[0];button.onclick=function(){var e=menu.className;e.indexOf(" in")>0?menu.className=e.replace(" in",""):menu.className=e+" in"};</script>
 
     <!-- Google Analytics -->
     <script>

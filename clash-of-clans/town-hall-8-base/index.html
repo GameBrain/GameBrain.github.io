@@ -40,6 +40,7 @@
             <li><a href="/" title="Home">Home</a></li>
             <li><a href="/about/" title="About">About</a></li>
             <li><a href="/clash-of-clans/" title="Guides for Clash of Clans">Clash of Clans</a></li>
+            <li class="visible-xs-block"><a href="/search/">Search Page</a></li>
           </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -50,16 +51,12 @@
     <div class="breadcrumbs hidden-xs">
       <div class="container">
         <ul class="breadcrumb pull-left"><li><a href="/">Home</a></li><li><a href="/clash-of-clans/">Clash of Clans</a></li><li class="active">Town Hall 8 Base</li></ul>
-        <div class="pull-right" style="width:230px;margin-top:16px;margin-bottom:16px;">
-          <form method="get" action="http://game-brain.com/search">
-            <div class="input-group">
-              <input type="text" class="form-control" value="" name="q" id="q" placeholder="Search...">
-              <span class="input-group-btn">
-                <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Go" style=""><span class="glyphicon glyphicon-search"></span></button>
-              </span>
+        <form class="navbar-form navbar-right" style="margin-top:16px;margin-bottom:16px;" role="search" action="/search/">
+            <div class="form-group">
+                <input type="text" class="form-control" name="q" id="q" placeholder="Search">
             </div>
-          </form>
-        </div>
+            <button type="submit" class="btn btn-default"><img height="18" width="18" src="/images/icons/search.svg"></button>
+        </form>
       </div>
     </div>
 
@@ -102,7 +99,7 @@
 <p><strong>Cannon</strong> - The cannon is a great unit for picking off individual troops. It can only target ground troops and it doesn’t have splash damage so it’s best to place the cannon at the outer ring of your base rather than your core. You’ll have the same number of cannons at this Town Hall level as you did with Town Hall 7.</p>
 <p><strong>Mortar</strong> - Similar to the Clan Castle, this is a very important defensive unit. The mortar does splash damage so it becomes increasingly more powerful as units get clumped up trying to reach the core of your base. You gain an extra mortar at this Town Hall level so all four of them should be placed in the center of your base.</p>
 <p><strong>Air Defense</strong> - These do tremendous damage to air units. You’ll gain an extra air defense at this Town Hall level which will help you to defend against pesky air troops. All of the air defense units should be placed at the center of your base to finish off any units that slipped by the outside ring of defense.</p>
-<nav><ul class="pager"><li class="previous"><a href="/clash-of-clans/town-hall-8-guide/"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></a></li><li class="next"><a href="/clash-of-clans/town-hall-8-army/"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></li></ul></nav>
+<nav><ul class="pager"><li class="previous"><a href="/clash-of-clans/town-hall-8-guide/"><img height="16" width="16" src="/images/icons/chevron-left.svg"> Previous</a></li><li class="next"><a href="/clash-of-clans/town-hall-8-army/">Next <img height="16" width="16" src="/images/icons/chevron-right.svg"></a></li></ul></nav>
 
             </article>
           </div>
@@ -111,24 +108,20 @@
           <div id="sideContent" class="content">
             <aside>
               <p>Wiki</p>
-              <div>
-                <ul>
-                  <li><span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/troops/">Troops</a></li>
-                  <li><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/buildings/">Buildings</a></li>
-                  <li><span class="glyphicon glyphicon-fire" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/spells/">Spells</a></li>
-                </ul>
-              </div>
+              <ul>
+                <li><img height="15" width="15" src="/images/icons/troop.svg">&nbsp;<a href="/clash-of-clans/troops/">Troops</a></li>
+                <li><img height="15" width="15" src="/images/icons/building.svg">&nbsp;<a href="/clash-of-clans/buildings/">Buildings</a></li>
+                <li><img height="15" width="15" src="/images/icons/spell.svg">&nbsp;<a href="/clash-of-clans/spells/">Spells</a></li>
+              </ul>
             </aside>
             <aside>
               <p>Guides</p>
-              <div>
-                <ul>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-6-guide/">Town Hall 6</a></li>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-7-guide/">Town Hall 7</a></li>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-8-guide/">Town Hall 8</a></li>
-                  <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;<a href="/clash-of-clans/town-hall-9-guide/">Town Hall 9</a></li>
-                </ul>
-              </div>
+              <ul>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-6-guide/">Town Hall 6</a></li>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-7-guide/">Town Hall 7</a></li>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-8-guide/">Town Hall 8</a></li>
+                <li><img height="15" width="15" src="/images/icons/guide.svg">&nbsp;<a href="/clash-of-clans/town-hall-9-guide/">Town Hall 9</a></li>
+              </ul>
             </aside>
           </div>
         </div>
@@ -143,6 +136,7 @@
       </footer>
     <!-- /main content -->
     </div>
+
 
     <script>var button=document.getElementsByClassName("navbar-toggle")[0],menu=document.getElementsByClassName("navbar-collapse")[0];button.onclick=function(){var e=menu.className;e.indexOf(" in")>0?menu.className=e.replace(" in",""):menu.className=e+" in"};</script>
 
