@@ -2,427 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>http://game-brain.com/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-army/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-6-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-army/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-army/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-8-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-9-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-9-farming-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-9-trophy-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
 </url>
 <url>
 	<loc>http://game-brain.com/about</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/air-defense/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/archer/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/archer-tower/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/barbarian/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/buildings/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/cannon/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/giant/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/goblin/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/wall-breaker/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/balloon/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/wizard/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/healer/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/dragon/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/pekka/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/minion/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/hog-rider/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/valkyrie/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/golem/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/golemite/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/witch/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/skeleton/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/lava-hound/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/lava-pup/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/barbarian-king/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/archer-queen/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/inferno-tower/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/mortar/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/troops/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/wizard-tower/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/x-bow/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/spells/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/lightning-spell/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/healing-spell/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/rage-spell/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/jump-spell/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/freeze-spell/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/santas-surprise/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/bomb/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/spring-trap/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/giant-bomb/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/air-bomb/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/seeking-air-mine/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/skeleton-trap/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
 </url>
 <url>
 	<loc>http://game-brain.com/contact/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
 </url>
 <url>
 	<loc>http://game-brain.com/privacy-policy/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/gold-mine/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/elixir-collector/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-guide/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/dark-elixir-drill/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-base/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/dark-elixir-storage/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-army/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/gold-storage/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-6-upgrade-priority/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/elixir-storage/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-guide/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/builders-hut/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-base/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/army-camp/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/barracks/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/dark-barracks/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/laboratory/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/spell-factory/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/clan-castle/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/wall/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/clash-of-clans/town-hall-7-war-base/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-7-army/</loc>
 </url>
 <url>
 	<loc>http://game-brain.com/clash-of-clans/town-hall-7-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-guide/</loc>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-base/</loc>
+</url>
+<url>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-8-army/</loc>
 </url>
 <url>
 	<loc>http://game-brain.com/clash-of-clans/town-hall-8-upgrade-priority/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
 </url>
 <url>
-	<loc>http://game-brain.com/heroes-of-the-storm/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-9-guide/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/heroes-of-the-storm/muradin-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-9-farming-base/</loc>
 </url>
 <url>
-	<loc>http://game-brain.com/heroes-of-the-storm/muradin-talent-build/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://game-brain.com/heroes-of-the-storm/valla-guide/</loc>
-	<priority>.5</priority>
-	<changefreq>weekly</changefreq>
+	<loc>http://game-brain.com/clash-of-clans/town-hall-9-trophy-base/</loc>
 </url>
 </urlset>
